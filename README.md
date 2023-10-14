@@ -9,4 +9,6 @@
   3) Run `npm start` to view project in browser
 
   Please visit this figma link to look at out prototype and user flow.
-  Figma Prototype: 
+  
+  Figma Prototype: https://www.figma.com/file/7q195mDIygokac0cdpblIS/SolTimesUp-Prototype-(HugForBugs)?type=design&node-id=0%3A1&mode=design&t=oz9V0Dt6IJnpZetR-1
+  Figma UserFlow: https://www.figma.com/file/BStML32UdDaNxg7tBGBJW1/SolTimesUp-User-Flow-(HugForBugs)?type=design&node-id=0%3A1&mode=design&t=CfJVGFWdKSGZuh2E-1
